@@ -12,13 +12,6 @@
       "ordername": "AnotherOrder",
       "codeorder": true,
       "codesuffix": false
-    },
-    {
-      "key": "Fall23",
-      "ordername": "Fall23",
-      "codeorder": true,
-      "codesuffix": false,
-      "expired": "23-07-2029"
     }
   ],
   "maintenance": false
