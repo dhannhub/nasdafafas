@@ -12,6 +12,13 @@
       "ordername": "AnotherOrder",
       "codeorder": true,
       "codesuffix": false
+    },
+    {
+      "key": "am-standalone",
+      "ordername": "am-standalone",
+      "codeorder": true,
+      "codesuffix": false,
+      "expired": "23-07-2029"
     }
   ],
   "maintenance": false
